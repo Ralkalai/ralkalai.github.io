@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Rafa Alkalai</title>
+    <link>/</link>
+    <description>Recent content in Welcome on Rafa Alkalai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/books/</guid>
+      <description>Bookshelf Below is a list of some of my favorite reads, this is not a comprehensive list nor is it static. You will also find what I’m currently enjoying.
+Currently reading I am currently reading Deacon King Kong by James McBride. This incredible book made the list of the New York Times Book Review for 2020 and as a avid listener of The Book Review podcast I picked it up when it was first reviewed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music/</guid>
+      <description>Under construction. Return later for some music recommendations!</description>
+    </item>
+    
+    <item>
+      <title>About Rafa</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Born and raised in Recife (Brazil) I now live in Vancouver on the traditional, unceded, and occupied territory of the xʷməθkʷəy̓əm, Sḵwx̱wú7mesh, and səlilwətaɬ peoples. After many years in Recife, I was granted the opportunity to finish my secondary education at the United World College Costa Rica, where I fell in love with the study of biodiversity at multiple scales.
+Although currently I’m just an undergraduate student, I intend on pursuing a career in academic research and teaching.</description>
+    </item>
+    
+  </channel>
+</rss>

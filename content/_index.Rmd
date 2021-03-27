@@ -1,0 +1,11 @@
+---
+description: Website description.
+menu: main
+title: Welcome
+params:
+  email: "ralkalai@student.ubc.ca"
+---
+
+Hi! I'm Rafa ([ʁa-fa](https://en.wikipedia.org/wiki/Help:IPA/Portuguese)) Alkalai. I'm currently an undergraduate student at the University of British Columbia in Vancouver, Canada. More specifically I am specializing in the study of Biodiversity with a focus on Latin America and Tropical Systems. A proud member of the [Faculty of Land and Food Systems](https://www.landfood.ubc.ca/), currently enrolled in the [Global Resource Systems](https://grs.landfood.ubc.ca/) program.
+
+When I'm not attending to my responsibilities as a full-time student I enjoy thinking about the plethora of the diversity of life on Earth. I'm interested in how ecological strategies shape evolutionary patterns and finding interesting ways to use computers to help us understand the world. I love learning new things and talking to people so please [reach out!](mailto:`r params$email`)

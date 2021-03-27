@@ -1,0 +1,28 @@
+---
+description: About Rafa Alkalai
+menu: main
+title: About Rafa
+author: "Rafa Alkalai"
+---
+
+Born and raised in [Recife (Brazil)](https://www.google.com/maps/place/Recife+-+State+of+Pernambuco,+Brazil/@-8.044945,-34.9927092,12.33z/data=!4m5!3m4!1s0x7ab196f88c446e5:0x3c9ef52922447fd4!8m2!3d-8.0522404!4d-34.9286096) I now live in Vancouver on the traditional, unceded, and occupied territory of the xʷməθkʷəy̓əm, Sḵwx̱wú7mesh, and səlilwətaɬ peoples. After many years in Recife, I was granted the opportunity to finish my secondary education at the [United World College Costa Rica](https://www.uwccostarica.org/en/), where I fell in love with the study of biodiversity at multiple scales.
+
+Although currently I'm just an undergraduate student, I intend on pursuing a career in academic research and teaching. I have been privileged to have had incredible educational opportunities throughout my life and I want to pay it forward. I am a firm believer in the role of experiential education as a leverage point for STEAM education in forming engaged citizens, specially in an ever-changing world that is flooded with overwhelming amounts of information. Below you will find a list of questions that keep me up.
+
+When I am not attending to my university-related resposibilities, I am often found crouching down to look at plants or looking up to spot birds. And by doing so, I hope to draw insight into how there is just an absurd amount of diversity of life on this [blue planet.](https://www.planetary.org/worlds/pale-blue-dot)
+
+_____
+
+### Questions that keep me up at night
+
+*Below is a non-comprehensive list of questions that I am often thinking about. If you got answers, ideas, or corrections please email me.*
+
+-   **How do ecological strategies impact evolutionary patterns? -** Given that ecological interactions are more significant in determining short-term survival of any individual/lineage, are there ways to connect these strategies/choices to the trends we see on an evolutionary scale?
+
+-   **How does cooperation evolve? -** When one first learns about evolution, many premises are based on an idea of competition or self-serving survival. If we look around, the world is filled with examples of simple and also *highly* complex forms of cooperation: why?
+
+-   **Why do some species co-evolve to absurd levels of specialization?** - Figs and fig wasps are my favorite example but all over the natural world we can find levels of extremely specific biotic interactions. How does evolution work to form these systems? What had to happen to allow for such specialization?
+
+-   **How do we better use computational tools to help us understand and manage biodiversity? -** Computers are extremely powerful tools that we need to keep using to develop conservation strategies. These strategies need to conserve for maintenance of biodiversity but also the processes that promote it. How can we use computers to help us understand the processes of diversity better?
+
+These questions are not all I think about but I do enjoy spending time at the intersection of ecology and evolution.

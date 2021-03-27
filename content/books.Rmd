@@ -1,0 +1,33 @@
+---
+description: Books
+menu: main
+author: "Rafa Alkalai"
+---
+## Bookshelf
+*Below is a list of some of my favorite reads, this is not a comprehensive list nor is it static. You will also find what I'm currently enjoying.*
+
+### Currently reading
+
+I am currently reading [**Deacon King Kong by James McBride**](https://www.goodreads.com/book/show/51045613-deacon-king-kong). This incredible book made the list of the [New York Times Book Review for 2020](https://www.nytimes.com/2020/11/23/books/review/best-books.html) and as a avid listener of [The Book Review](https://www.nytimes.com/column/book-review-podcast) podcast I picked it up when it was first reviewed.
+
+------------------------------------------------------------------------
+
+### Books I have enjoyed
+
+-   [**Braiding Sweetgrass**](https://books.google.ca/books?id=vmM9BAAAQBAJ&printsec=frontcover&dq=braiding+sweetgrass&hl=en&sa=X&ved=2ahUKEwjywtzCl__uAhXG6Z4KHTikC-4Q6AEwAHoECAkQAg#v=onepage&q=braiding%20sweetgrass&f=false) *by Robin Wall Kimmerer*
+
+    It was through reading and discovering Dr. Kimmerer's work that I felt my concerns about science and its methods be explained to me in a language of permission. As a budding biologist, reading this incredible work opened my eyes to a criticism of scientific thought I had failed to put into words.
+
+-   [**Americanah**](https://books.google.ca/books?id=_wZ1Rf1QQ_EC&printsec=frontcover&dq=americanah&hl=en&sa=X&ved=2ahUKEwjUq7v8l__uAhUVsp4KHZ08D5wQ6AEwAHoECAYQAg#v=onepage&q=americanah&f=false) *by Chimamanda Ngozi Adichie*
+
+    I first read this book when I immigrated to Canada to start University. The story of Ifemelu (the protagonist), helped me ease the difficulties and challenges of transitioning to the North American way of life. Having lived abroad before I thought I knew what to expect but the cultural shock of moving from Brazil to Costa Rica did not prepare me for the winter in Vancouver.
+
+-   [**The Overstory**](https://books.google.ca/books?id=_zQsDwAAQBAJ&printsec=frontcover&dq=the+overstory&hl=en&sa=X&ved=2ahUKEwiqqLXWmf_uAhWHq54KHSMFAYQQ6AEwAHoECAUQAg#v=onepage&q=the%20overstory&f=false) *by Richard Powers*
+
+    A recent read that is on this list because of its fantastic prose but also powerful storytelling as a call to action. A lot of the books I read are about nature and this is one of my favorite nature books because it's about people.
+
+-   [**Green Phoenix: Restoring the Tropical Forests of Guanacaste, Costa Rica**](https://books.google.ca/books?id=T98l_OtHPR8C&printsec=frontcover&dq=green+phoenix&hl=en&sa=X&ved=2ahUKEwifodmvof_uAhXGr54KHaH8BEEQ6AEwAXoECAIQAg#v=onepage&q=green%20phoenix&f=false)*by William Allen*
+
+    A telling of the decades long effort to change the course of an ecosystem set for extinction, this book showed me that sometimes, good does actually triumph. With the ever-present climate anxiety we experience, this book gave me the inspiration to continue pursuing what may seem like unattainable goals.
+
+*Got any reading recommendations? Send them my way via [email!](mailto:ralkalai@student.ubc.ca)*
